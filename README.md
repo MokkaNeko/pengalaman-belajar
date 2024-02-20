@@ -8,4 +8,5 @@ pengalaman belajar di bangkit
 - kemudian, saya sedang mengerjakan matriculation course 3 tentang github
 <br>
 mencoba branch baru development<br>
-menambah message setelah pull
+menambah message setelah pull<br>
+semoga conflict ya adik adik
