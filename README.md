@@ -9,4 +9,4 @@ pengalaman belajar di bangkit
 <br>
 mencoba branch baru development<br>
 menambah message setelah pull<br>
-apa iya dek
+semoga conflict ya adik adik
